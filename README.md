@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Estos es un repositorio del modulo2 del prepcourse de henry
+Joh humberto Posso salcedo
+
+prueba de como crear un repositorio y clonarlo desde github a mi computadora.
